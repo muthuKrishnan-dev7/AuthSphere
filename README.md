@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# AuthSphere
+AuthSphere is a full-stack authentication and user management system built with Java, React, and PostgreSQL, featuring secure login/register, JWT authentication, OTP verification, password reset, and protected user profile management.
+>>>>>>> 33070f8c3dcd2f6c5aa2cd4f8b26591d22e15bd1
